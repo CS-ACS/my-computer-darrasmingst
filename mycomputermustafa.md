@@ -30,6 +30,6 @@ ___
 ___
 * I have a fantastic relationship with my laptop. I use it to watch my favorite TV Shows and Movies, to work, and to game.
 * I have a fruitful history with my laptop. Countless drops and dents add to its charm. I have added too many stickers to count and I love it more with each new sticker. Its unfortunate that this will be my last year with my laptop.
-### Effect of my laptops features\
+### Effect of my laptops features
 1. RAM: Although my laptop has 8 GB of RAM, which I personally think is not enough. I would prefer at least 16 GB for gaming.
 2. Storage: I've had my laptop for almost 4 years, and I have only used just above half of its storage capacity of 500GB. 500GB is perfect for students or gamers.

@@ -33,3 +33,4 @@ ___
 ### Effect of my laptops features
 1. RAM: Although my laptop has 8 GB of RAM, which I personally think is not enough. I would prefer at least 16 GB for gaming.
 2. Storage: I've had my laptop for almost 4 years, and I have only used just above half of its storage capacity of 500GB. 500GB is perfect for students or gamers.
+<img width="855" alt="Screen Shot 2021-09-01 at 7 46 31 PM" src="https://user-images.githubusercontent.com/89782180/131711204-d1f82684-05d4-42c4-b14a-de3f9204dc4a.png">
